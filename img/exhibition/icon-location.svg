@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="23px" viewBox="0 0 19 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>placeholder</title>
+    <g id="V3-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="bevel">
+        <g id="NWD50-Landing-V3-Full" transform="translate(-720.000000, -6217.000000)" fill-rule="nonzero" stroke="#000000" stroke-width="3">
+            <g id="placeholder" transform="translate(722.000000, 6219.000000)">
+                <path d="M13.9393606,11.4449415 L7.61598402,20 L1.12722278,11.5471816 C0.396303696,10.3557921 0,8.98129811 0,7.57221991 C0,3.40245753 3.37112887,0 7.5024975,0 C11.6338661,0 15,3.40245753 15,7.57221991 C15,8.9395047 14.6298202,10.27886 13.9393606,11.4449415 Z" id="Path"></path>
+                <path d="M7.50207814,10 C6.11982544,10 5,8.87736711 5,7.5 C5,6.12607973 6.12701579,5 7.50207814,5 C8.87714048,5 10,6.12607973 10,7.5 C10,8.85726744 8.90623441,10 7.50207814,10 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
