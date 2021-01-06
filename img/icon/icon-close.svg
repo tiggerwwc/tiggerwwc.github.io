@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cross</title>
+    <g id="V3-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="NWD50-Form-Popup" transform="translate(-770.000000, -35.000000)" stroke="#D8182A" stroke-width="2">
+            <g id="Group" transform="translate(770.000000, 35.000000)">
+                <g id="Group-2" transform="translate(2.000000, 2.000000)">
+                    <line x1="8.58644313e-17" y1="1.71728863e-16" x2="26" y2="26" id="Line"></line>
+                    <line x1="-9.02056208e-16" y1="3.46944695e-16" x2="26" y2="26" id="Line" transform="translate(13.000000, 13.000000) scale(-1, 1) translate(-13.000000, -13.000000) "></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
