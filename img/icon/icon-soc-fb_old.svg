@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>FB</title>
+<svg width="9px" height="18px" viewBox="0 0 9 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Layer_1</title>
     <defs>
         <filter id="filter-1">
             <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
         </filter>
     </defs>
-    <g id="FB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g filter="url(#filter-1)" id="Layer_1">
-            <g transform="translate(5.000000, 0.000000)">
+    <g id="V3-Revision" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layer_1" transform="translate(-31.000000, -812.000000)" filter="url(#filter-1)">
+            <g transform="translate(31.000000, 812.000000)">
                 <path d="M2.075,18 L2.075,9 C1.45,9 0.625,9 0.005,9 C0.005,8.975 0,8.955 0,8.935 C0,7.97 0,7.06 0,6.095 C0,6.03 0.025,6.015 0.09,6.015 C0.645,6.02 1.41,6.015 1.97,6.015 C2.08,6.015 2.08,6.015 2.08,5.91 L2.08,3.495 C2.085,3.195 2.11,2.89 2.165,2.595 C2.3,1.86 2.65,1.235 3.265,0.77 C3.81,0.35 4.445,0.145 5.13,0.065 C5.495,0.02 5.865,0.01 6.235,0.005 C7.08,2.81892565e-16 8.065,0.005 8.91,2.81892565e-16 C8.97,2.81892565e-16 9,0.015 9,0.09 C9,1.085 9,2.085 9,3.08 C9,3.15 8.98,3.175 8.905,3.175 C8.25,3.175 7.23,3.175 6.575,3.175 C6.38,3.175 6.215,3.23 6.065,3.34 C5.875,3.485 5.715,3.655 5.71,3.905 C5.71,4.565 5.71,5.28 5.71,5.94 C5.71,5.99 5.725,6 5.775,6 L8.755,5.995 C8.785,5.995 8.82,6 8.855,6 C8.845,6.15 8.835,6.29 8.82,6.43 C8.775,6.885 8.725,7.29 8.675,7.745 C8.625,8.135 8.57,8.52 8.515,8.91 C8.51,8.99 8.47,9 8.405,9 C7.61,9 6.96,9 6.165,9 C6.135,9 6.1,9 5.71,9 L5.71,18 L2.075,18 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
             </g>
         </g>
